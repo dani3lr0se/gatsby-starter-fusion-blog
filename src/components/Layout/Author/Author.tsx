@@ -28,10 +28,7 @@ const Author = (): React.ReactElement => {
         <a href={`https://www.linkedin.com/in/${author.social.linkedin}`}>
           {author.name}
         </a>{" "}
-        about coding, traveling, habit building, and much more (Psst... I am{" "}
-        <em>
-          <Link to="/resume">open to opportunities</Link>.)
-        </em>
+        about my projects, learning experiences, etc.
       </h5>
     </Root>
   );

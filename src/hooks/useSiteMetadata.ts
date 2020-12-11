@@ -19,7 +19,6 @@ const useSiteMetadata = (): SiteSiteMetadata => {
                 icon
                 photo
               }
-              resume
               username
               social {
                 twitter

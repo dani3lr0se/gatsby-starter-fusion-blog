@@ -1,10 +1,7 @@
 import {
-  FaAt,
   FaLinkedin,
   FaTwitter,
   FaGithub,
-  FaMedium,
-  FaGoodreadsG,
 } from "react-icons/fa";
 import { IconType } from "react-icons/lib/cjs";
 
@@ -27,28 +24,12 @@ const SOCIALS: { [key: string]: PredefinedLinkValue } = {
     Icon: FaGithub,
     title: "GitHub",
   },
-  // medium: {
-  //   baseUrl: "https://medium.com",
-  //   Icon: FaMedium,
-  //   title: "Medium",
-  // },
   twitter: {
     baseUrl: "https://twitter.com",
     Icon: FaTwitter,
     title: "Twitter",
     hoverColor: "#08a0e9",
   },
-  // goodreads: {
-  //   baseUrl: "https://goodreads.com",
-  //   Icon: FaGoodreadsG,
-  //   title: "Goodreads",
-  //   hoverColor: "#553b08",
-  // },
-  // email: {
-  //   Icon: FaAt,
-  //   title: "Email",
-  //   hoverColor: "#D44638",
-  // },
 };
 
 export default SOCIALS;

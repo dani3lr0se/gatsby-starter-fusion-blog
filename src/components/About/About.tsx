@@ -4,7 +4,6 @@ import Image, { FixedObject } from "gatsby-image";
 
 import { SiteSiteMetadataAuthor } from "graphql-types";
 import { rhythm } from "../../utils/typography";
-import { yearsSince } from "../../utils/timeSince";
 import { device } from "../../styles/constants";
 import { useAvatar } from "../../hooks";
 
@@ -22,33 +21,25 @@ const About: React.FunctionComponent<AboutProps> = ({
       <Avatar fixed={avatar.childImageSharp.fixed as FixedObject} />
 
       <Description>
-        <h4>Hey there my friend!</h4>
+        {/*<h4>Hey there my friend!</h4>*/}
         <p>
-          My name is {author.name}, and I am {yearsSince(author.birthDate)}{" "}
-          years old. I have a passion for products having constructive effects
-          on our lives, and I love to be involved in the development of
-          purposeful applications.
+          My name is {author.firstname}. I'm a Navy veteran, husband, and stepdad.
+          I'm a former law enforcement officer, computer tech, and web developer.
+          My passion is in cybersecurity. It's what I've always truly enjoyed and
+          I'm always using my free time to learn.
         </p>
 
         <p>
-          I contribute to the product life cycle with my comprehensive skills in
-          web development, my growing knowledge of behavioral sciences and human
-          psychology, and my neverending hunger for growth.
+          When I'm not hacking on TryHackMe or HackTheBox I enjoy collecting sports cards,
+          getting in a good workout, or just spending time with my family watching good 
+          shows or movies.
         </p>
 
         <p>
-          When not building stuff, I love to explore, read fascinating books,
-          learn languages, write about my experiences in life, have amazing
-          dinners and meet interesting people. I am also obsessed with building
-          positive habits. I believe they are the keys to unlock our full
-          potential.
+          If you want to find out more about me feel free to reach out on social
+          media.
         </p>
 
-        <p>
-          Do you want to find out more about me? Please shoot me an email at{" "}
-          <strong>{author.social.email}</strong> or reach out to me on social
-          media, listed below.
-        </p>
       </Description>
     </Root>
   );

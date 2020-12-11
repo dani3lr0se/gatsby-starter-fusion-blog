@@ -2384,7 +2384,6 @@ export type SiteFieldsEnum =
   | 'siteMetadata___author___descriptions___intro'
   | 'siteMetadata___author___assets___icon'
   | 'siteMetadata___author___assets___photo'
-  | 'siteMetadata___author___resume'
   | 'siteMetadata___author___username'
   | 'siteMetadata___author___social___github'
   | 'siteMetadata___author___social___instagram'
@@ -3394,7 +3393,6 @@ export type SiteSiteMetadataAuthor = {
   title?: Maybe<Scalars['String']>;
   descriptions?: Maybe<SiteSiteMetadataAuthorDescriptions>;
   assets?: Maybe<SiteSiteMetadataAuthorAssets>;
-  resume?: Maybe<Scalars['String']>;
   username?: Maybe<Scalars['String']>;
   social?: Maybe<SiteSiteMetadataAuthorSocial>;
 };
@@ -3426,7 +3424,6 @@ export type SiteSiteMetadataAuthorFilterInput = {
   title?: Maybe<StringQueryOperatorInput>;
   descriptions?: Maybe<SiteSiteMetadataAuthorDescriptionsFilterInput>;
   assets?: Maybe<SiteSiteMetadataAuthorAssetsFilterInput>;
-  resume?: Maybe<StringQueryOperatorInput>;
   username?: Maybe<StringQueryOperatorInput>;
   social?: Maybe<SiteSiteMetadataAuthorSocialFilterInput>;
 };
