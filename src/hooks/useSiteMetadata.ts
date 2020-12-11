@@ -27,7 +27,6 @@ const useSiteMetadata = (): SiteSiteMetadata => {
                 instagram
               }
             }
-            description
             siteUrl
             title
             copyright

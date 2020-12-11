@@ -1,9 +1,6 @@
 module.exports = {
   siteMetadata: {
     copyright: "© All rights reserved.",
-    // description:
-    //   "Róbert is traveling the world with his laptop and shipping products for the web, while constantly embracing new ideas. Come, and join him on this journey!",
-    // googleAnalyticsId: "UA-73379983-2",
     pathPrefix: "/",
     siteUrl: "https://dani3lr0se.com",
     title: "Daniel Rose",
