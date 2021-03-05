@@ -1,22 +1,15 @@
 ---
-title: What's my story?
+title: whoami
 template: post
-slug: whats-my-story
-draft: true
+slug: whoami
+draft: false
 featured: true
-date: "2019-04-07T15:00:00.000Z"
+date: "2021-03-05"
 description: >-
-  This post will give you a better understanding of the content I am going to
-  put out and the ideas I am going to express.
-cover: "./whats-my-story-cover.jpg"
+  Who I am and how I ended up here.
 category: Personal
-tags:
-  - Travel
-  - Storytime
-  - Personal Growth
+cover: "./whoami-cover.jpg"
 ---
-
-[![Photo by Alfred Twj on Unsplash](/whats-my-story-cover.jpg)](https://bit.ly/2PxBQzW)
 
 The main goal of this post is to give you a short intro about myself. It should serve as an informal catch-up with those of you, who don't know me that well yet 🙂.
 

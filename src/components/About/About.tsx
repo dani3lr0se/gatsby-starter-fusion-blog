@@ -23,23 +23,22 @@ const About: React.FunctionComponent<AboutProps> = ({
       <Description>
         {/*<h4>Hey there my friend!</h4>*/}
         <p>
-          My name is {author.firstname}. I'm a Navy veteran, husband, and stepdad.
-          I'm a former law enforcement officer, computer tech, and web developer.
-          My passion is in cybersecurity. It's what I've always truly enjoyed and
-          I'm always using my free time to learn.
+          My name is {author.firstname}. I'm a Navy veteran, and former police
+          officer. I have over 8 years of IT experience in computer repair, web
+          development, and currently information security. Information security
+          is what I've always truly enjoyed and I'm always using my free time to
+          learn.
         </p>
 
         <p>
-          When I'm not hacking on TryHackMe or HackTheBox I enjoy collecting sports cards,
-          getting in a good workout, or just spending time with my family watching good 
-          shows or movies.
+          When I'm not working on TryHackMe, HackTheBox, or studying for a
+          certification, I enjoy collecting sports cards, getting in a good
+          workout, or just spending time with my family.
         </p>
 
         <p>
-          If you want to find out more about me feel free to reach out on social
-          media.
+          If you want to connect with me feel free to reach out on social media.
         </p>
-
       </Description>
     </Root>
   );

@@ -11,7 +11,7 @@ module.exports = {
       title: "",
       descriptions: {
         intro:
-          "I'm a Navy veteran, passionate about cybersecurity. Currently working on the OSCP certification.",
+          "I'm a Navy veteran, Security Analyst, passionate about information security.",
       },
       assets: {
         icon: "daniel_avatar_rounded.png",
@@ -20,7 +20,6 @@ module.exports = {
       username: "daniel",
       social: {
         github: "dani3lr0se",
-        instagram: "dani3lr0se",
         linkedin: "dani3lr0se",
         twitter: "dani3lr0se",
       },

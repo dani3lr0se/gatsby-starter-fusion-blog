@@ -6,9 +6,9 @@ import Social from "../../Social";
 
 const Footer: React.FunctionComponent = (): React.ReactElement => (
   <Root>
-    <CTA>Reach out to me on your favorite social :)</CTA>
+    <CTA>Feel free to connect on social media</CTA>
     <Social className="footer_social" />
-    <CopyRight>© 2020 dani3lr0se</CopyRight>
+    <CopyRight>© 2021 dani3lr0se</CopyRight>
   </Root>
 );
 
