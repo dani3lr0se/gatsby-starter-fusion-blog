@@ -24,7 +24,6 @@ const useSiteMetadata = (): SiteSiteMetadata => {
                 twitter
                 github
                 linkedin
-                instagram
               }
             }
             siteUrl
