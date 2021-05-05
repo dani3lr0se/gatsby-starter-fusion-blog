@@ -32,8 +32,7 @@ const About: React.FunctionComponent<AboutProps> = ({
 
         <p>
           When I'm not working on TryHackMe, HackTheBox, or studying for a
-          certification, I enjoy collecting sports cards, getting in a good
-          workout, or just spending time with my family.
+          certification, I enjoy collecting sports cards, watching hockey, baseball, and Formula 1 racing.
         </p>
 
         <p>

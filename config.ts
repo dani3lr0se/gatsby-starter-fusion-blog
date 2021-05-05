@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     copyright: "© All rights reserved.",
     pathPrefix: "/",
-    siteUrl: "https://dani3lr0se.com",
-    title: "Daniel Rose",
+    siteUrl: "https://cybersecdan.com",
+    title: "CyberSecDan",
     author: {
       firstname: "Daniel",
       lastname: "Rose",
