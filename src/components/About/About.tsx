@@ -23,20 +23,33 @@ const About: React.FunctionComponent<AboutProps> = ({
       <Description>
         {/*<h4>Hey there my friend!</h4>*/}
         <p>
-          My name is {author.firstname}. I'm a Navy veteran, and former police
-          officer. I have over 8 years of IT experience in computer repair, web
-          development, and currently information security. Information security
-          is what I've always truly enjoyed and I'm always using my free time to
-          learn.
+          My name is {author.firstname}. I'm a husband, stepdad, Navy veteran. I have experience in healthcare, law enforcement, and have been in IT for many years now. I decided to create this blog to share my story and experiences as I transition into information security. Information security is what I've always truly enjoyed and what I wish to pursue as a career and work in for many years to come. You'll see that I spend most of my free time lately trying to level up with new skills, etc., on sites like TryHackMe, HackTheBox, RangeForce, Cyberdefenders, etc.
         </p>
 
         <p>
-          When I'm not working on TryHackMe, HackTheBox, or studying for a
-          certification, I enjoy collecting sports cards, watching hockey, baseball, and Formula 1 racing.
+          When I'm not learning new skills or studying for a certification, I enjoy collecting baseball cards, watching hockey, baseball, and Formula 1 racing with my family.
         </p>
 
         <p>
-          If you want to connect with me feel free to reach out on social media.
+          If you want to connect with me, feel free to reach out on social media.
+        </p>
+
+        <p>
+          You can also see what I'm up to on:
+          <ul>
+            <li>
+            <a href="https://tryhackme.com/p/dani3lsan">TryHackMe</a>
+            </li>
+            <li>
+            <a href="https://www.hackthebox.eu/profile/294702">HackTheBox</a>
+            </li>
+            <li>
+            <a href="https://www.codecademy.com/profiles/Dani3lR0se">Codecademy</a>
+            </li>
+            <li>
+            <a href="https://github.com/dani3lr0se">GitHub</a>
+            </li>
+          </ul>
         </p>
       </Description>
     </Root>
