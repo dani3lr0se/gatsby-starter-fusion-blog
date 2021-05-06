@@ -6,7 +6,7 @@ draft: false
 featured: true
 date: "2021-05-06"
 description: >-
-  Who I am and what is this about.
+  New blog, who dis?
 category: Personal
 cover: "./whoami-cover.jpg"
 ---
