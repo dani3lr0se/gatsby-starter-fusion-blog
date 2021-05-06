@@ -17,7 +17,7 @@ module.exports = {
         icon: "daniel_avatar_rounded.png",
         photo: "/daniel_avatar.jpeg",
       },
-      username: "daniel",
+      username: "cybersecdan",
       social: {
         github: "dani3lr0se",
         linkedin: "dani3lr0se",
