@@ -18,3 +18,5 @@ One of the first resources I learned about was [TryHackMe](https://tryhackme.com
 ### HackTheBox Academy
 
 My next favorite resource is [HackTheBox Academy](https://academy.hackthebox.eu/). This is similar to TryHackMe in the sense that you can work with interactive lessons in the browser. There doesn't seem to be as much available on the free tier, but I would still highly recommend it. Again, you can start with fundamentals and work towards more advanced lessons or just begin wherever you'd like depending on your skill set. There is even a learning path called "Cracking into HackTheBox", if you'd like to learn how to sign up on [HackTheBox](https://www.hackthebox.eu/). If you want to get into pentesting and practice your skills, HackTheBox is a great place for that.
+
+These are just a couple of the many that are out there, but these are the two I would recommend starting with. I'll keep sharing more on here over time so keep an eye out.
