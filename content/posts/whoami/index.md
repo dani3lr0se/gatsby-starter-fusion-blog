@@ -3,7 +3,7 @@ title: whoami
 template: post
 slug: whoami
 draft: false
-featured: true
+featured: false
 date: "2021-05-06"
 description: >-
   New blog, who dis?
